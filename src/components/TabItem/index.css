@@ -1,0 +1,20 @@
+/* Write your CSS here */
+* {
+  font-family: 'Roboto';
+}
+.active-btn {
+  border: 0px solid;
+  background-color: transparent;
+  color: #2563eb;
+  text-decoration: underline;
+  text-decoration-color: #2563eb;
+  font-size: 15px;
+  cursor: pointer;
+}
+.tab-btn {
+  border: 0px solid;
+  background-color: transparent;
+  color: #7b8794;
+  font-size: 15px;
+  cursor: pointer;
+}
